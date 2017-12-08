@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: <a href="http://uin-suska.ac.id"> Universitas Islam Negeri Sultan Syarif Kasim Riau
+subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-18
