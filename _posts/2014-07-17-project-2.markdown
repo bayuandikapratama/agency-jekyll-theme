@@ -1,11 +1,11 @@
 ---
-title: <a href="http://sif.uin-suska.ac.id"> Program Studi Sistem Informasi
+title: <a href="http://fst.uin-suska.ac.id"> Fakultas Sains dan Teknologi
 subtitle:
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2014-07-17
 img: escape.png
-thumbnail: logosit.jpg
+thumbnail: fst.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
