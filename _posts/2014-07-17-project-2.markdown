@@ -1,6 +1,6 @@
 ---
 title: <a href="http://sif.uin-suska.ac.id> Program Studi Sistem Informasi
-subtitle: Website Design
+subtitle:
 layout: default
 modal-id: 2
 date: 2014-07-17
