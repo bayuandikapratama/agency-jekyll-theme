@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: <a href="http://sif.uin-suska.ac.id> Program Studi Sistem Informasi
 subtitle: Website Design
 layout: default
 modal-id: 2
