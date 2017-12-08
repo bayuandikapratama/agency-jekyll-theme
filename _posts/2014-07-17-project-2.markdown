@@ -1,5 +1,5 @@
 ---
-title: <a href="http://sif.uin-suska.ac.id> Program Studi Sistem Informasi
+title: <a href="http://sif.uin-suska.ac.id"> Program Studi Sistem Informasi
 subtitle:
 layout: default
 modal-id: 2
