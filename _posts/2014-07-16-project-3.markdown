@@ -1,5 +1,5 @@
 ---
-title: <a href="http//fst.uin-suska.ac.id"> Fakultas Sains dan Teknologi
+title: <a href="http://fst.uin-suska.ac.id"> Fakultas Sains dan Teknologi
 subtitle:
 layout: default
 modal-id: 3
